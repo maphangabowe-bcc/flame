@@ -1,0 +1,10 @@
+{
+  "name": "pepperoni",
+  "description": "The world's premier decentralized frequency for unfiltered social emissions. Join the atomic hub of catharsis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "version": "1.0.0-PROD",
+  "majorCapabilities": []
+}
